@@ -17,3 +17,5 @@ someone. I got this idea from [Josh Branchaud](https://github.com/jbranchaud/til
 ### Ruby
 
 ### HTTP2
+
+- [Best Practices](http2/best_pratices_for_http2.md)
