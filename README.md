@@ -9,12 +9,9 @@ someone. I got this idea from [Josh Branchaud](https://github.com/jbranchaud/til
 
 ### Categories
 
-* [Ruby](#ruby)
 * [HTTP2](#http2)
 
 ---
-
-### Ruby
 
 ### HTTP2
 
